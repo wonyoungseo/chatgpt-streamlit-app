@@ -1,7 +1,7 @@
 
-# OpenAI Streamlit App
+# OpenAI ChatGPT Streamlit App
 
-> Simple Streamlit application powered with OpenAI ChatGPT API 
+> Streamlit application at its simplest form, powered with OpenAI ChatGPT API 
 
 ## Prerequisite
 
